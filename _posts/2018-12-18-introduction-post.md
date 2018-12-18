@@ -1,7 +1,7 @@
 ---
 title: "글을 시작하며"
-tag: 'introduction', 'change'
-categories: 'introduction'
+tags: introduction, change
+categories: introduction
 ---
 
 '누구신지?' 라는 질문에 먼저 대답하고 시작해야 할 것 같다.
