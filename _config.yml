@@ -17,7 +17,7 @@ remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default"  #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR" # "ko-KR"
 title                    : "Curve Lab Blog"
 title_separator          : "-"
 name                     : "Onewquant"
@@ -108,8 +108,8 @@ author:
   name             : "Onew"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "데이터 분석이 즐겁습니다"
-  location         : "Curve Lab"
-  email            :
+  location         : "Seoul, Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
