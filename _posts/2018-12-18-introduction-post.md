@@ -1,6 +1,6 @@
 ---
 title: "글을 시작하며"
-tags: introduction
+tag: introduction
 categories: introduction
 ---
 
