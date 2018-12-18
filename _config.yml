@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Onew"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "데이터 분석이 즐겁습니다"
+  bio              : "Enjoyable Data Analysis"
   location         : "Seoul, Korea"
   email            : 
   links:
@@ -122,10 +122,10 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/seunghwan.baek.902"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Onewquant"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
