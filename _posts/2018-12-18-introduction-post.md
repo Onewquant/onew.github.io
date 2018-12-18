@@ -2,8 +2,11 @@
 layout: single
 title: "글을 시작하며"
 author_profile: false
-tag: introduction
-categories: introduction
+tag: 
+- introduction
+- change
+categories: 
+- introduction
 ---
 
 '누구신지?' 라는 질문에 먼저 대답하고 시작해야 할 것 같다.  
