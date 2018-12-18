@@ -1,6 +1,5 @@
 ---
 title: "글을 시작하며"
-layout: single
 date : 2018-12-18 10:15:30 -0400
 author_profile: true
 tag: introduction, life
