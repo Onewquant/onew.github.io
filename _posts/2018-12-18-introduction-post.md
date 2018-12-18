@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "글을 시작하며"
+author_profile: false
 tag: introduction
 categories: introduction
 ---
