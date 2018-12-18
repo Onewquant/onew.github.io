@@ -1,0 +1,6 @@
+# main links links
+main:
+  - title: "About"
+    url: /About/
+  - title: "Posts"
+    url: /_posts/
