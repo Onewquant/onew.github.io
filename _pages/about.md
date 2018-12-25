@@ -9,15 +9,11 @@ author_profile: true
   
 **Be CURVE !**  
   
-Creative (창의적인)  
- 
-Understandable (이해하기 쉬운)  
- 
-Right (올바른)  
- 
-Valuable (가치 있는)  
- 
-Evidence-Based (증거 기반)  
+- Creative (창의적인)  
+- Understandable (이해하기 쉬운)  
+- Right (올바른)  
+- Valuable (가치 있는)  
+- Evidence-Based (증거 기반)  
   
 ---  
   
@@ -34,6 +30,20 @@ Curve Lab은 데이터를 기반한 분석으로 그것들을 이해하려는 �
  
 **Steps**
 
-- 2017.05 : First encounter - Concept of Data Science 
-- 2018.07 : Instruction of Database
-- 2018.08 : Practice
+- 2017.05 : First encounter - Concept of Data Science  
+- 2017.08 : Instruction of a personal database (Microsoft SQL Server)  
+ 
+- 2018.06 : Extension of range of collecting data (Korean - Indices, Stock, ETFs / Forex / Global Commodities / Global Stock Market Indices)  
+- 2018.09 : Instruction of Curvelib ver 1.0 Package (Personal tools for data analysis, with Python language)  
+- 2018.11 : Initiation of Semi-automated System Trading in Korean stock market
+- 2018.12 : Performance improvements of Curvelib Package by Asynchronous Programming & Multiprocessing (5 times faster than ver 1.0)  
+ 
+---
+ 
+**Forward**
+
+- Machine Learning 도입  
+- Realtime Data 처리  
+- Statistical Decision Making 에 관한 공부  
+- Complex system, Network Science 에 관한 공부  
+  
