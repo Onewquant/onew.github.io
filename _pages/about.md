@@ -7,7 +7,7 @@ author_profile: true
   
 ---  
   
-**Be CURVE !**  
+### Be CURVE !  
   
 - Creative (창의적인)  
 - Understandable (이해하기 쉬운)  
@@ -17,7 +17,7 @@ author_profile: true
   
 ---  
   
-**Philosophy**  
+### Philosophy
   
 세상에는 아직 밝혀지지 않은 진실들이 수없이 많습니다.   
 Curve Lab은 데이터를 기반한 분석으로 그것들을 이해하려는 시도입니다.    
@@ -28,7 +28,7 @@ Curve Lab은 데이터를 기반한 분석으로 그것들을 이해하려는 �
  
 ---  
  
-**Steps**
+### Steps
 
 - 2017.05 : First encounter - Concept of Data Science  
 - 2017.08 : Instruction of a personal database (Microsoft SQL Server)  
@@ -44,7 +44,7 @@ Curve Lab은 데이터를 기반한 분석으로 그것들을 이해하려는 �
   
 ---
  
-**Forward**
+### Forward
 
 - Machine Learning 도입  
 - Realtime Data 처리  
