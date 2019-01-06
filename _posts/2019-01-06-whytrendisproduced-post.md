@@ -97,7 +97,7 @@ categories:
 이런 추론이 옳은지 그른지는 좀 더 자세한 연구결과들이 나오기를 기다려야 하겠다. 기존의 경제학적 추론보다는 정확한 현실해석이 되길 바란다.  
  
 
-### Reference)  
+#### Reference) #### 
 Content 1) 우발과 패턴 236p  
 Figure 1) Avalanche in States; Combination of Sandpile and Cellular Automata for Generate Random Numbers - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Power-law-number-output-of-the-sandpile-model_fig2_260318635 [accessed 6 Jan, 2019]  
 
