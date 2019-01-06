@@ -31,11 +31,11 @@ Curve Lab은 데이터를 기반한 분석으로 그것들을 이해하려는 �
 ### Steps
 
 - 2017.05 : First encounter - Concept of Data Science  
-- 2017.08 : Instruction of a personal database (Microsoft SQL Server)  
+- 2017.08 : Construction of a personal database (Microsoft SQL Server)  
   
   
 - 2018.06 : Extension of range of collecting data (Korean - Indices, Stock, ETFs / Forex / Global Commodities / Global Stock Market Indices)  
-- 2018.09 : Instruction of Curvelib Package ver 1.0 (Personal tools for data analysis, with Python language)  
+- 2018.09 : Construction of Curvelib Package ver 1.0 (Personal tools for data analysis, with Python language)  
 - 2018.11 : Initiation of semi-automated system trading program in Korean stock market
 - 2018.12 : Performance improvements of Curvelib Package by Asynchronous Programming & Multiprocessing (5 times faster than initial version 1.0)  
   
