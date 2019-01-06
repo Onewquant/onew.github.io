@@ -42,7 +42,7 @@ categories:
 그 분포를 보면 다음과 같이 나타난다는 것이다.  
  
 ![power-law-number-output-of-the-sandpile-model](https://user-images.githubusercontent.com/34860302/50737944-c9268680-1211-11e9-8805-d4fe42526ea6.png)  
-figure 1) 쌀사태 멱함수 분포  
+##### figure 1) 쌀사태 멱함수 분포 #####  
   
 그래프의 내용을 요약하자면, 쌀알이 많이 동원된 큰 쌀사태는 작은 쌀사태보다 적게 일어난다는 것이다. 그것도 일정한 비율로 줄어들면서 말이다.  
   
