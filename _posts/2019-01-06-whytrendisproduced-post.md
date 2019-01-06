@@ -40,7 +40,8 @@ categories:
 변화시키게 되는 동인이 된다. 하지만, 쌀사태는 쌀알이 떨어질때마다 항상 일어나는 것이 아니라, 가끔 어느 순간에 한 번씩 일어난다. 
 여기서 흥미로운 사실이 하나 발견된다. 가끔 일어나는 이 쌀사태에 동원된 쌀알의 수를 하나하나 세어 보고, 
 그 분포를 보면 다음과 같이 나타난다는 것이다.  
-  
+ 
+![Alt Text(https://www.researchgate.net/profile/Majid_Vafaei_Jahan/publication/260318635/figure/fig2/AS:297013133496342@1447824857640/Power-law-number-output-of-the-sandpile-model.png)
 figure 1) 쌀사태 멱함수 분포  
   
 그래프의 내용을 요약하자면, 쌀알이 많이 동원된 큰 쌀사태는 작은 쌀사태보다 적게 일어난다는 것이다. 그것도 일정한 비율로 줄어들면서 말이다.  
