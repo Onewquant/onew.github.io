@@ -7,7 +7,7 @@ tag:
 - trading
 - philosophy
 categories: 
-- trading_philosophy
+- trading philosophy
 ---
 
 주식시장에는 분명히 ‘추세’가 존재한다. 여기서 추세란 (비교적 짧은)일정기간 동안 한 방향으로의 큰 움직임을 의미한다. 
