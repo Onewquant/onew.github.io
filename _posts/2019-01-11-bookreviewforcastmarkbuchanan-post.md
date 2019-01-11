@@ -7,7 +7,7 @@ tag:
 - network theory
 - power law
 categories: 
-- Book Review
+- Book Reviews
 ---
  
 ![forcast](https://user-images.githubusercontent.com/34860302/51019976-5fff9400-15c0-11e9-9bab-57a3e457b237.jpg)  
