@@ -80,9 +80,9 @@ categories:
 이는 1960년 초반 프랑스 수학자 망델브로(Benoit Mandelbrot)가 목화 시장 가격을 연구하면서 처음 발견했고, 
 이후 1999년 보스턴 대학교 해리 유진 스탠리 연구팀(Harry Eugene Stanley et al.)이 금융 지수 및 개별 주식 시장에서 그 존재를 확인했다.
  
-![default](https://user-images.githubusercontent.com/34860302/51022388-680f0200-15c7-11e9-9f84-c712f44a7c27.jpg)
+![default](https://user-images.githubusercontent.com/34860302/51022388-680f0200-15c7-11e9-9f84-c712f44a7c27.jpg)  
  
-<Figure 3> 정규분포(Left) vs 멱함수 분포(Right)의 
+<Figure 3> 정규분포(Left) vs 멱함수 분포(Right)의 그래프  
  
 명백히 존재한다고 볼 수 있는 현상에도 경제학은 이에 대해 함구하고 있다고 저자는 이야기한다. 
 물론 주류 경제학에서 이에 대한 후속 연구를 안 한 것일 수도 있겠지만, 만약 저런 현상이 있다는 사실을 인지했다면 
