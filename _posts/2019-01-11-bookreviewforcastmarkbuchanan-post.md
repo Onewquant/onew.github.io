@@ -225,6 +225,6 @@ Content 2) 내일의 경제 / 마크 뷰캐넌 / 203p
 Content 3) 내일의 경제 / 마크 뷰캐넌 / 321p  
 Content 4) 내일의 경제 / 마크 뷰캐넌 / 245-249p  
 Content 5) 내일의 경제 / 마크 뷰캐넌 / 292-296p  
-Figure 1) http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788983716989#N
+Figure 1) http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788983716989#N  
 Figure 2) KOSPI Index from Curvelib DB / Onew   
 Figure 3) 직접제작
