@@ -3,9 +3,9 @@ layout: single
 title: "내일의 경제(Forcast, Mark Buchanan)를 읽고"
 author_profile: false
 tag: 
-- Complex System
-- Network theory
-- Power law
+- complex system
+- network theory
+- power law
 categories: 
 - Book Review
 ---
