@@ -67,7 +67,7 @@ categories:
 특히나 가끔 한 번씩 발생하는 것처럼 보이는 폭발적인 가격의 움직임은 ‘드물게 발생하는 예외’라고 말하기엔 별로 드물지 않아보인다. 
 흔히 접할 수 있는 코스피, 코스닥 지수만 관찰하여도 이를 바로 확인해 볼 수 있다.  
  
-![forcast](https://user-images.githubusercontent.com/34860302/51019976-5fff9400-15c0-11e9-9bab-57a3e457b237.jpg)  
+![kospi](https://user-images.githubusercontent.com/34860302/51022317-43b32580-15c7-11e9-804f-19ff554c44b0.png)
  
 <Figure 2> 코스피지수(2000.01 ~ 2019.01)  
  
@@ -80,8 +80,7 @@ categories:
 이는 1960년 초반 프랑스 수학자 망델브로(Benoit Mandelbrot)가 목화 시장 가격을 연구하면서 처음 발견했고, 
 이후 1999년 보스턴 대학교 해리 유진 스탠리 연구팀(Harry Eugene Stanley et al.)이 금융 지수 및 개별 주식 시장에서 그 존재를 확인했다.
  
-![default](https://user-images.githubusercontent.com/34860302/51021638-752af180-15c5-11e9-8d22-8c97aa28aa8e.png)
-![default](https://user-images.githubusercontent.com/34860302/51021648-79570f00-15c5-11e9-8f44-12b394bd715f.png)
+![default](https://user-images.githubusercontent.com/34860302/51022388-680f0200-15c7-11e9-9f84-c712f44a7c27.jpg)
  
 <Figure 3> 정규분포(Left) vs 멱함수 분포(Right)의 
  
