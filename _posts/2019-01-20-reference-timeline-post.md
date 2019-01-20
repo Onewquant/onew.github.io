@@ -12,7 +12,7 @@ categories:
 
 ![alfons-morales-410757-unsplash](https://user-images.githubusercontent.com/34860302/51434509-77680c80-1ca5-11e9-824f-9b834e4589f3.jpg) 
   
-### 2017 (Total : 19) ###  
+### **2017 (Total : 19)** ###  
   
   
 (1) 패스트 캠퍼스 강의 - 퀀트 강의 (한태경)  
@@ -36,7 +36,7 @@ categories:
 (19) 마법의 돈 굴리기 (김성일)  
   
   
-### 2018 (Total : 22) ###  
+### **2018 (Total : 22)** ###  
   
   
 (20) 박 회계사의 재무제표로 보는 업종별 투자전략 (박동흠)  
@@ -63,7 +63,7 @@ categories:
 (41) 내일의 경제 (Forcast, 마크 뷰캐넌)  
   
   
-### 2019 (Total : NaN ) ###  
+### **2019 (Total : NaN )** ###  
   
   
 (32) 우발과 패턴 (Ubiquity, 마크 뷰캐넌)  
