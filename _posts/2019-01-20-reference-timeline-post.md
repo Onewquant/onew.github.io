@@ -9,7 +9,8 @@ tag:
 categories: 
 - Reference Timeline
 ---
-  
+
+![alfons-morales-410757-unsplash](https://user-images.githubusercontent.com/34860302/51434509-77680c80-1ca5-11e9-824f-9b834e4589f3.jpg) 
   
 ### 2017 (Total : 19) ###  
   
@@ -62,4 +63,8 @@ categories:
   
 (32) 우발과 패턴 (Ubiquity, 마크 뷰캐넌)  
 (33) Why Stock Market Crash (Didier Sornette)  
-..ing
+..ing  
+  
+  
+  
+Photo by Alfons Morales on Unsplash  
