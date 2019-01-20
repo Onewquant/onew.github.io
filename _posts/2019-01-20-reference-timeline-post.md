@@ -66,8 +66,8 @@ categories:
 ### 2019 (Total : NaN ) ###  
   
   
-(32) 우발과 패턴 (Ubiquity, 마크 뷰캐넌)  
-(33) Why Stock Market Crash (Didier Sornette)  
+(42) 우발과 패턴 (Ubiquity, 마크 뷰캐넌)  
+(43) Why Stock Market Crash (Didier Sornette)  
 ..ing  
   
   
