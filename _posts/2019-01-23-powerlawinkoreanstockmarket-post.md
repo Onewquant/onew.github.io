@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "한국 주식시장에서의 멱함수 분포 (Power Law in Korean Stock Market)"
+title: "한국 주식시장에서의 멱함수 분포 (Power law distribution in Korean stock market)"
 author_profile: false
 tag: 
 - complex system
