@@ -68,7 +68,7 @@ categories:
   
 (42) 우발과 패턴 (Ubiquity, 마크 뷰캐넌)  
 (43) Why Stock Market Crash (Didier Sornette)  
-(44) 버스트 (Bursts, A.L. 바라바시)
+(44) 버스트 (Bursts, A.L. 바라바시)  
 ..ing  
   
   
