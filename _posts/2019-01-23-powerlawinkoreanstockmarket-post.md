@@ -53,8 +53,8 @@ x축은 어제 종가에 비교했을때 오늘 종가가 얼마나 변했는지
 한편, 더 자세히 들여다보면 재미있는 현상이 몇 가지 있다.  
 먼저, +15% 혹은 -15%에서 그래프의 기울기가 한 번 변하는 것 같다. 산점도(Scatter graph)에서 회귀선을 빼보면 이 현상이 더 뚜렷하게 보인다.  
  
-![kor_stocks_power_low_logarithm_scatter_neg](https://user-images.githubusercontent.com/34860302/51611679-2be28680-1f63-11e9-829e-fe3251e489b1.png)  
 ![kor_stocks_power_low_logarithm_scatter_pos](https://user-images.githubusercontent.com/34860302/51611685-30a73a80-1f63-11e9-85f7-e2ec8ec09c40.png)  
+![kor_stocks_power_low_logarithm_scatter_neg](https://user-images.githubusercontent.com/34860302/51611679-2be28680-1f63-11e9-829e-fe3251e489b1.png)  
  
 ##### (Figure 5,6) Power law distribution without linear regression line #####  
 
