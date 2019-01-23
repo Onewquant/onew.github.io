@@ -70,7 +70,8 @@ x축은 어제 종가에 비교했을때 오늘 종가가 얼마나 변했는지
 (Figure 1,2,3,4,5,6) 자체 제작  
 
 ## Appendix ##  
-(Figure 1) 데이터
+(Figure 1) 데이터  
+ 
 | <center>Positive Returns</center> | <center>N</center> | <center>Negative Returns</center> | <center>N</center> |
 | :-------------------------------: | :----------------: | :-------------------------------: | :----------------: |
 |            **0 to 1%**            |       1300518      |           **-1 to 0%**            |       1300518      |
