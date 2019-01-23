@@ -64,9 +64,16 @@ x축은 어제 종가에 비교했을때 오늘 종가가 얼마나 변했는지
 왜 그런지도 차차 알게 되겠지?  
  
 ## Reference ##  
-(Programming Language) Python 3.66
-(Data Source) Curvelib / KOR Stock Price Data (2000.01.01 ~ 2019.01.22) 한국 주식 전종목 
-(content 1) scipy 라이브러리의 stats.linregress 사용
+(Programming Language) Python 3.66  
+(Data Source) Curvelib / KOR Stock Price Data (2000.01.01 ~ 2019.01.22) 한국 주식 전종목  
+(content 1) scipy 라이브러리의 stats.linregress 사용  
+(Figure 1,2,3,4,5,6) 자체 제작  
 
-
+## Appendix ##  
+(Figure 1) 데이터
+|  <center>Positive Returns</center> |  <center>N</center> |  <center>Negative Returns</center> |  <center>N</center> |
+|:--------:|:--------:|:--------:|:--------:|
+|**0 to 1%** | 1300518 |**-1 to 0%** | 2442865 | 
+|**1 to 2%** | 1300518 |**-2 to -1%** | 2442865 | 
+|**1 to 2%** | 1300518 |**-2 to -1%** | 2442865 | 
 
