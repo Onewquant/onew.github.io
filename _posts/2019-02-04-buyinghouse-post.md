@@ -184,7 +184,7 @@ categories:
 새로운 아이디어가 샘 솟고 복이 흘러넘치는 터전이 되길 기대해 본다.  
  
  
-# Reference  
+### Reference ###  
 Photo by Stephan Bechert on Unsplash  
 Photo by Hans-Peter Gauster on Unsplash  
 
