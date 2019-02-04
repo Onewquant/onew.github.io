@@ -90,6 +90,8 @@ categories:
 위와 같이 가치 항목에 대한 점수를 부여하고 합산했더니, (가)동 A아파트가 가장 적합했다. 
 이렇게 대상이 정해지면 이제 남은 것은 디테일이다. 원래 악마는 디테일에 숨어 있다고 했던가… 가장 혼란스러운 단계가 남았다.  
  
+![hans-peter-gauster-252751-unsplash](https://user-images.githubusercontent.com/34860302/52198152-43940600-28a5-11e9-8ff5-658d237824e7.jpg)  
+ 
 ### 대상의 디테일 정보 살피기 ###  
  
 대상이 정해졌으면(여기서는 우리가 정한 (가)동 A 아파트가 대상이다), 그 대상의 실제 매물들을 비교해 보아야 한다. 
@@ -184,5 +186,6 @@ categories:
  
 # Reference  
 Photo by Stephan Bechert on Unsplash
+Photo by Hans-Peter Gauster on Unsplash
 
 
