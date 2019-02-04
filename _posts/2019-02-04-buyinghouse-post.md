@@ -9,6 +9,8 @@ categories:
 - Real Estate
 ---  
  
+![default](https://user-images.githubusercontent.com/34860302/52196787-7687cb00-28a0-11e9-956f-c50549ef74a2.jpg)  
+ 
 그야말로 부동산 공화국이다.  
  
 이전까지 나는 부동산에 거의 관심이 없었다. 전세로 살고 있는 집에서 큰 불편함을 못 느꼈을 뿐더러, 집주인도 친절하게(?) 
@@ -181,6 +183,6 @@ categories:
  
  
 # Reference  
-Nothing  
+Photo by Stephan Bechert on Unsplash
 
 
