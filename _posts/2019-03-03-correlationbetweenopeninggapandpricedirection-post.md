@@ -33,7 +33,7 @@ categories:
   
 ![next_opening_gap_net_ret vs next_day_fluctuation 20y](https://user-images.githubusercontent.com/34860302/53695562-7bd52880-3e00-11e9-89a4-c9b9f5f596d0.png)   
   
-##### (Figure 3) Distribution diagram for 20 years (2000.01.01 ~ 2019.02.28) #####   
+##### (Figure 3) Distribution diagram for 19 years (2000.01.01 ~ 2019.02.28) #####   
  
 상관계수 : -0.316227   
 
