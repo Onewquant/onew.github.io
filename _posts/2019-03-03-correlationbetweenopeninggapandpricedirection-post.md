@@ -48,6 +48,6 @@ categories:
 (1) 수정주가를 사용하지 않음  
 (2) Opening gap 이 -30% 미만, 혹은 30% 초과인 데이터는 제거함  
 (3) 주가가 2500원 미만인 주식 종목은 제외함  
-(4) next_opening_gap_net_ret : 100 * (Next_Day_Open - Today_Close) / Today_Close - 0.5
-(5) next_day_fluctuation : 100 * (Next_Day_Close - Next_Day_Open) / Next_Day_Open
+(4) next_opening_gap_net_ret : 100 * (Next_Day_Open - Today_Close) / Today_Close - 0.5  
+(5) next_day_fluctuation : 100 * (Next_Day_Close - Next_Day_Open) / Next_Day_Open  
   
