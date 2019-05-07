@@ -15,7 +15,7 @@ Curvelib 이라는 퀀트트레이딩 툴을 만들었는데, 사용하다보니
 > (1) 워크스테이션 노트북에서 코드를 수정하여 github에 올리는데, 다른 컴퓨터에서 사용하려면 매번 github에서 다운 받아야 한다.    
 > (2) 다른 사람이 사용하기에는 다운로드, 설치, 개발환경설정 등이 너무 복잡하다  
  
-이 문제를 해결하려면 내가 만든 패키지를 PyPi에 오픈소스로 배포해야 했다.  
+이 문제를 해결하려면 내가 만든 패키지를 PyPI에 오픈소스로 배포해야 했다.  
  
 이번 기회를 통해서 파이썬 패키지 배포하는 법을 알게 되었다.  
 혹시나 나중에 배포하게 될 일이 또 있을 것 같아 스스로 정리하는 차원에서 글을 써본다.  
@@ -28,7 +28,7 @@ Curvelib 이라는 퀀트트레이딩 툴을 만들었는데, 사용하다보니
 ## Step1. 패키지 만들기 ##    
  
 Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects 에 프로젝트 폴더를 만들고 그 안에 가상환경을 구축하여 사용한다. 
-가상 환경은 보통 프로젝트 폴더 안에 venv라는 폴더로 되어있다. 그림으로 보면 아래와 같다. 설명을 위해 'TestPack'이라는 패키지를 만들었다고 가정하겠다.
+가상 환경은 보통 프로젝트 폴더 안에 venv라는 폴더로 되어있다. 그림으로 보면 아래와 같다. 설명을 위해 'TestPack'이라는 패키지를 만들었다고 가정하겠다. 여기서 중요한 것은 패키지 폴더 내에 '__init.py__' 파일이 반드시 있어야 패키지로 인식된다는 점이다. 내용은 비어있더라도 __init__.py 파일 자체는 꼭 만들자 !
 
 ![image](https://user-images.githubusercontent.com/34860302/57270806-d40dfc80-70c7-11e9-86f5-86d4b123dc5a.png)  
  
@@ -97,7 +97,71 @@ setup(
 * __package_data__ 는 패키지 안에 .py 파일이 아닌 다른 파일을 더 포함시키고 싶을때 쓰면 된다. TestPack 내에 일부러 testpack_configs.txt라는 파일을 포함시켜보도록 하겠다.
 * __zip_safe__ 정확히 무슨 역할을 하는지는 잘 모르겠으나 package_data에 추가한 내용이 있으면 False로 설정해야한다고 한다...  
 * __classifiers__ 파이썬 3.5와 3.6에서만 된다고 명시했다. (그냥 명시만 될 뿐 실제 에러가 따로 뜨거나 설치가 안되거나 하는 일은 없는 듯 하다.
+ 
+#### (2) setup.cfg ####  
+ 
+파이썬 공식 문서에 보면 setup.cfg의 역할에 대해 서술된 곳이 있다
 
+> installers can override some of what you put in setup.py by editing setup.cfg
+> you can provide non-standard defaults for options that are not easily set in setup.py
+> installers can override anything in setup.cfg using the command-line options to setup.py
+
+대략적인 내용은, setup.py에 뭔가 정형화되게 딱 설정해놓기 어려운 부분을 setup.cfg를 통해 사용자가 유도리 있게 쓸 수 있도록 도와주는 역할을 하는 파일이다. 음... 어떻게 잘 활용할 수 있을지는 차차 시간을 두고 알아보기로 한다... 일단은 참고한 기술블로그에서 나온 내용만 써 놓겠다. 패키지를 설명해주는 파일이 README.md 파일임을 명시해놓는 내용이다.
+
+``` 
+[metadata]
+description-file = README.md
+``` 
+
+#### (3) README.md ####  
+ 
+패키지에 대한 설명을 써놓는 곳이다. 맘껏 편집하면 될듯.  
+ 
+#### (4) MANIFEST.in ####  
+ 
+패키지 폴더 밖에 있는 다른 파일을 포함시키고 싶을때 쓴다.
+
+여기서는 README.md 만 포함시켜보는 것으로 하겠다.
+ 
+``` 
+include README.md
+``` 
+
+여기까지가 배포를 위한 파일들을 작성하는 과정이다.
+위에서도 이야기했지만, 가장 중요한 파일은 __setup.py__ 임을 기억하고 이걸 공들여 작성하면 된다. !
+ 
+## Step3. Wheel로 빌드업 하기 ##    
+ 
+커맨드창 (cmd)을 실행시킨 후 루트디렉토리로 이동한다 (PycharmProjects 폴더)  
+ 
+``` 
+cd PycharmProjects  
+```  
+ 
+wheel이 이미 설치되어 있으면 바로 빌드업을 실행시키면 되지만, 아니면 wheel 설치 후 진행한다.  
+ 
+설치는  
+``` 
+pip install wheel  
+``` 
+로 한다 (커맨드창 열린 상태에서 그냥 저 코드 치면 된다)  
+ 
+설치가 완료되면 배포판으로 빌드업한다.  
+``` 
+python setup.py bdist_wheel
+``` 
+ 
+그러면 루트디렉토리(PycharmProjects 폴더)에 dist 라는 폴더가 생성되고 거기에 배포판 파일이 생성된다.  
+ 
+커맨드창에서 이루어지는 빌드업 전체 과정을 사진으로 한 눈에 보면 다음과 같다.  
+ 
+![image](https://user-images.githubusercontent.com/34860302/57275276-fceabd80-70d8-11e9-90ee-a805bdeee3fb.png)  
+ 
+## Step4. twine으로 PyPI에 배포하기 ##    
+ 
+ 
+ 
+ 
 ## Reference ##    
 (OS) Windows 10 Pro  
 (Programming Language) Python 3.6.8   
@@ -105,5 +169,5 @@ setup(
 (Figure 1,2,3) 자체 제작   
 (1) <https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076>
 (2) <https://rampart81.github.io/post/python_package_publish/>
-
+(3) <https://docs.python.org/3/distutils/configfile.html>
   
