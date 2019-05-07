@@ -212,7 +212,7 @@ twine upload dist/TestPack-1.0.0-py3-none-any.whl
 (Programming Language) Python 3.6.8   
 (IDLE) Pycharm   
 (Figure 1,2 및 기타 스크린샷) 자체 제작   
-(1) <https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076>
-(2) <https://rampart81.github.io/post/python_package_publish/>
-(3) <https://docs.python.org/3/distutils/configfile.html>
+(1) <https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076>  
+(2) <https://rampart81.github.io/post/python_package_publish/>  
+(3) <https://docs.python.org/3/distutils/configfile.html>  
   
