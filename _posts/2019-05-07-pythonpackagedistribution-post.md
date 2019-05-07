@@ -25,7 +25,7 @@ Curvelib 이라는 퀀트트레이딩 툴을 만들었는데, 사용하다보니
 (물론 그냥 내가 리눅스나 맥을 쓰면 해결될 문제이긴하다...)
 
  
-## 패키지 만들기 ##    
+## Step1. 패키지 만들기 ##    
  
 Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects 에 프로젝트 폴더를 만들고 그 안에 가상환경을 구축하여 사용한다. 
 가상 환경은 보통 프로젝트 폴더 안에 venv라는 폴더로 되어있다. 그림으로 보면 아래와 같다. 설명을 위해 'TestPack'이라는 패키지를 만들었다고 가정하겠다.
@@ -42,14 +42,14 @@ Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects �
  
 이 상태에서 'TestPack'을 배포해 보겠다.
  
-## 패키지 배포에 필요한 파일 작성 ##  
+## Step2. 패키지 배포에 필요한 파일 작성 ##  
  
 패키지 배포에 필요한 파일들을 작성해야한다.  
  
-* setup.py  
-* setup.cfg  
-* README.md  
-* MANIFEST.in  
+* __setup.py__  
+* __setup.cfg__  
+* __README.md__  
+* __MANIFEST.in__  
  
 작성은 패키지 폴더가 들어있는 루트 디렉토리인 PycharmProjects 폴더에 한다.  
  
@@ -57,9 +57,11 @@ Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects �
  
 각 파일의 내용 작성법은 Reference에 참조한 다른 기술블로그들을 참조하는 것을 추천한다. (나는 각 항목들의 자세한 내막은 잘 모르기에...)  
 
-위의 4개의 파일 중 반드시 필요한 것은 setup.py 하나이다. 나머지는 필요하면 넣고 아니면 빼도 상관 없다.
+위의 4개의 파일 중 반드시 필요한 것은 __setup.py__ 하나이다. 나머지는 필요하면 넣고 아니면 빼도 상관 없다.
  
-TestPack 기준으로 작성한 setup.py 내용이다
+(1) __setup.py__
+ 
+TestPack 기준으로 작성한 __setup.py__ 내용이다
 
 ```
 from setuptools import setup, find_packages
