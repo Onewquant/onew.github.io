@@ -130,7 +130,7 @@ include README.md
 여기까지가 배포를 위한 파일들을 작성하는 과정이다.
 위에서도 이야기했지만, 가장 중요한 파일은 __setup.py__ 임을 기억하고 이걸 공들여 작성하면 된다. !
  
-## Step3. Wheel로 빌드업 하기 ##    
+## Step3. wheel로 빌드업 하기 ##    
  
 커맨드창 (cmd)을 실행시킨 후 루트디렉토리로 이동한다 (PycharmProjects 폴더)  
  
@@ -151,7 +151,12 @@ pip install wheel
 python setup.py bdist_wheel
 ``` 
  
-그러면 루트디렉토리(PycharmProjects 폴더)에 dist 라는 폴더가 생성되고 거기에 배포판 파일이 생성된다.  
+그러면 아래 그림들과 같이 루트디렉토리(PycharmProjects 폴더)에 dist 라는 폴더가 생성되고 거기에 배포판 파일이 생성된다.  
+ 
+![image](https://user-images.githubusercontent.com/34860302/57277206-a2ecf680-70de-11e9-9481-41bc290952ee.png)  
+ 
+![image](https://user-images.githubusercontent.com/34860302/57277278-ca43c380-70de-11e9-8afb-aaf7680b37f8.png)  
+ 
  
 커맨드창에서 이루어지는 빌드업 전체 과정을 사진으로 한 눈에 보면 다음과 같다.  
  
@@ -159,6 +164,7 @@ python setup.py bdist_wheel
  
 ## Step4. twine으로 PyPI에 배포하기 ##    
  
+
  
  
  
