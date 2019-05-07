@@ -30,12 +30,12 @@ Curvelib 이라는 퀀트트레이딩 툴을 만들었는데, 사용하다보니
 Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects 에 프로젝트 폴더를 만들고 그 안에 가상환경을 구축하여 사용한다. 
 가상 환경은 보통 프로젝트 폴더 안에 venv라는 폴더로 따로 만들어진다. 그림으로 보면 아래와 같다. 설명을 위해 'TestPack'이라는 패키지를 만들었다고 가정하겠다.
 
-![image](https://user-images.githubusercontent.com/34860302/57265803-3fe66a00-70b4-11e9-843b-9f81eeef4c4f.png)  
+![image](https://user-images.githubusercontent.com/34860302/57270806-d40dfc80-70c7-11e9-86f5-86d4b123dc5a.png)  
  
 ##### (Figure 1) PycharmProjects 폴더 안에 패키지 폴더를 만듦 #####   
  
  
-![image](https://user-images.githubusercontent.com/34860302/57265718-e1b98700-70b3-11e9-82d8-6ec15eff14b4.png)  
+![image](https://user-images.githubusercontent.com/34860302/57270751-927d5180-70c7-11e9-8db2-65f8d0ad8e5d.png)  
  
 ##### (Figure 2) 패키지 폴더 안에 venv를 구축하여 사용함 #####   
  
@@ -53,7 +53,7 @@ Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects �
  
 작성은 패키지 폴더가 들어있는 루트 디렉토리인 PycharmProjects 폴더에 한다.  
  
-![image](https://user-images.githubusercontent.com/34860302/57268279-24805c80-70be-11e9-8708-33d6234e8917.png)  
+![image](https://user-images.githubusercontent.com/34860302/57270860-facc3300-70c7-11e9-9f72-d400be634ac5.png)  
  
 각 파일의 내용 작성법은 Reference에 참조한 다른 기술블로그들을 참조하는 것을 추천한다. (나는 각 항목들의 자세한 내막은 잘 모르기에...)  
 
@@ -61,7 +61,7 @@ Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects �
  
 TestPack 기준으로 작성한 setup.py 내용이다
 
-''' 
+```
 from setuptools import setup, find_packages
 
 setup(
@@ -86,7 +86,7 @@ setup(
         'Programming Language :: Python :: 3.6'
     ]
 ) 
-'''  
+```  
  
 
 ## Reference ##    
