@@ -28,14 +28,14 @@ Curvelib 이라는 퀀트트레이딩 툴을 만들었는데, 사용하다보니
 ## Step1. 패키지 만들기 ##    
  
 Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects 에 프로젝트 폴더를 만들고 그 안에 가상환경을 구축하여 사용한다. 
-가상 환경은 보통 프로젝트 폴더 안에 venv라는 폴더로 되어있다. 그림으로 보면 아래와 같다. 설명을 위해 'TestPack'이라는 패키지를 만들었다고 가정하겠다. 여기서 중요한 것은 패키지 폴더 내에 '__init.py__' 파일이 반드시 있어야 패키지로 인식된다는 점이다. 내용은 비어있더라도 __init__.py 파일 자체는 꼭 만들자 !
+가상 환경은 보통 프로젝트 폴더 안에 venv라는 폴더로 되어있다. 그림으로 보면 아래와 같다. 설명을 위해 'TestPack'이라는 패키지를 만들었다고 가정하겠다. 여기서 중요한 것은 패키지 폴더 내에 ```__init.py__``` 파일이 반드시 있어야 패키지로 인식된다는 점이다. 따라서 만약 이 파일을 안 만들어 놓으면 패키지 폴더가 포함 안된채 빈 껍데기 패키지만 빌드업 된다. 파일 속 내용은 비어있더라도 ```__init__.py``` 파일 자체는 꼭 만들자 ! 
 
 ![image](https://user-images.githubusercontent.com/34860302/57270806-d40dfc80-70c7-11e9-86f5-86d4b123dc5a.png)  
  
 ##### (Figure 1) PycharmProjects 폴더 안에 패키지 폴더를 만듦 #####   
  
  
-![image](https://user-images.githubusercontent.com/34860302/57270751-927d5180-70c7-11e9-8db2-65f8d0ad8e5d.png)  
+![image](https://user-images.githubusercontent.com/34860302/57276560-f6f6db80-70dc-11e9-9b9a-3265916b7405.png)  
  
 ##### (Figure 2) 패키지 폴더 안에 venv를 구축하여 사용함 #####   
  
