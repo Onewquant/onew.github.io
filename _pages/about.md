@@ -40,7 +40,7 @@ Curve Labs는 데이터를 기반한 분석으로 그것들을 이해하려는 �
 - 2018.12 : Performance improvements of Curvelib Package by Asynchronous Programming & Multiprocessing (5 times faster than initial version 1.0)  
   
    
-- 2019.05 : launching open-source python package 'wecolib' (researching and executing tools for quantitative trading)  
+- 2019.05 : Launching open-source python package 'wecolib' (researching and executing tools for quantitative trading)  
   
 ---
  
