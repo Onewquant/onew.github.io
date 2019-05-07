@@ -59,7 +59,7 @@ Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects �
 
 위의 4개의 파일 중 반드시 필요한 것은 __setup.py__ 하나이다. 나머지는 필요하면 넣고 아니면 빼도 상관 없다.
  
-(1) __setup.py__
+#### (1) setup.py ####
  
 TestPack 기준으로 작성한 __setup.py__ 내용이다
 
