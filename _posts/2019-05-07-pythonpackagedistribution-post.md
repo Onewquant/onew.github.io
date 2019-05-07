@@ -33,10 +33,13 @@ Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects �
 ![image](https://user-images.githubusercontent.com/34860302/57270806-d40dfc80-70c7-11e9-86f5-86d4b123dc5a.png)  
  
 ##### (Figure 1) PycharmProjects 폴더 안에 패키지 폴더를 만듦 #####   
- 
- 
+  
+  
+   
 ![image](https://user-images.githubusercontent.com/34860302/57276560-f6f6db80-70dc-11e9-9b9a-3265916b7405.png)  
  
+  
+   
 ##### (Figure 2) 패키지 폴더 안에 venv를 구축하여 사용함 #####   
  
  
