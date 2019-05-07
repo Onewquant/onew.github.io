@@ -157,22 +157,61 @@ python setup.py bdist_wheel
  
 ![image](https://user-images.githubusercontent.com/34860302/57277278-ca43c380-70de-11e9-8afb-aaf7680b37f8.png)  
  
+여기까지가 배포판으로 빌드업하는 과정이다.  
  
-커맨드창에서 이루어지는 빌드업 전체 과정을 사진으로 한 눈에 보면 다음과 같다.  
+빌드업 완료된 파일 이름은 step4에서 배포시 사용되므로 클립보드에 복사해 두던지 하면 편하다.
+
+내용을 정리하는 차원에서 커맨드창에서 이루어지는 빌드업 전체 과정을 사진으로 한 눈에 보면 다음과 같다.  
  
 ![image](https://user-images.githubusercontent.com/34860302/57275276-fceabd80-70d8-11e9-90ee-a805bdeee3fb.png)  
  
 ## Step4. twine으로 PyPI에 배포하기 ##    
  
-
+빌드업이 완료된 후에는 이제 마지막 과정인 배포만 하면 된다.  
  
+PyPI 홈페이지로 들어가서 <https://pypi.org/>  
  
+PyPI에 미리 가입을 해놓는다.  
+ 
+이후 커맨드창(cmd)에서 루트디렉토리로 이동한 상태에서 다음 코드를 하나씩 실행해 나간다.  
+ 
+twine이 설치되어 있지 않다면 다음 코드로 설치먼저 한다.
+ 
+``` 
+pip install twine  
+```  
+ 
+이후 아까 빌드업한 파일 이름을 사용하여 twine으로 배포한다.  
+ 
+``` 
+twine upload dist/TestPack-1.0.0-py3-none-any.whl
+``` 
+ 
+본인의 PyPI 아이디와 비밀번호를 치면 배포과정이 시작된다.  
+비밀번호를 치는데 화면에 입력이 안되는 것처럼 보인다면, 그냥 신경쓰지 않아도 된다.  
+그냥 입력하고 엔터치면 잘 들어가 있다. (나의 경우는 이것 신경쓰다가 괜히 시간 허비했다..)
+ 
+커맨드 창에서의 전체 입력 과정을 정리해 보면 다음 그림과 같다.  
+ 
+![image](https://user-images.githubusercontent.com/34860302/57278334-2a3b6980-70e1-11e9-842a-2cf44302c1f2.png)  
+ 
+![image](https://user-images.githubusercontent.com/34860302/57278436-67076080-70e1-11e9-9f46-54b13ca5cf09.png)  
+ 
+모든 과정을 다 마쳤다면 PyPI에 패키지가 정상적으로 등록될 것이다.  
+아래 그림은 내가 배포한 wecolib 패키지이다.
+ 
+![image](https://user-images.githubusercontent.com/34860302/57278758-5dcac380-70e2-11e9-8e42-053904a1017f.png)  
+ 
+배포 후에 패키지 설치는 바로 할 수 있으나 검색은 바로 안 될 수 있다.  
+시간이 좀 흐른 뒤(나의 경우는 0.5~1일 정도) 검색도 완전히 되는 오픈 소스 패키지 제작자가 될 수 있었다.  
+ 
+더 세밀한 컨트롤과 제작은 아래 Reference에 첨부한 기술블로그들을 참고하시길.  
  
 ## Reference ##    
 (OS) Windows 10 Pro  
 (Programming Language) Python 3.6.8   
 (IDLE) Pycharm   
-(Figure 1,2,3) 자체 제작   
+(Figure 1,2 및 기타 스크린샷) 자체 제작   
 (1) <https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076>
 (2) <https://rampart81.github.io/post/python_package_publish/>
 (3) <https://docs.python.org/3/distutils/configfile.html>
