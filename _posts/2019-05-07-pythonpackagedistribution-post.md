@@ -67,7 +67,7 @@ Pycharm 환경에서 보통 개발할때 C:\Users\사용자명\PycharmProjects �
 
 위의 4개의 파일 중 반드시 필요한 것은 __setup.py__ 하나이다. 나머지는 필요하면 넣고 아니면 빼도 상관 없다.
  
-#### (1) setup.py ####
+### (1) setup.py ###
  
 TestPack 기준으로 작성한 __setup.py__ 내용이다
 
@@ -106,7 +106,7 @@ setup(
 * __zip_safe__ 정확히 무슨 역할을 하는지는 잘 모르겠으나 package_data에 추가한 내용이 있으면 False로 설정해야한다고 한다...  
 * __classifiers__ 파이썬 3.5와 3.6에서만 된다고 명시했다. (그냥 명시만 될 뿐 실제 에러가 따로 뜨거나 설치가 안되거나 하는 일은 없는 듯 하다.
  
-#### (2) setup.cfg ####  
+### (2) setup.cfg ###  
  
 파이썬 공식 문서에 보면 setup.cfg의 역할에 대해 서술된 곳이 있다
 
@@ -121,11 +121,11 @@ setup(
 description-file = README.md
 ``` 
 
-#### (3) README.md ####  
+### (3) README.md ###  
  
 패키지에 대한 설명을 써놓는 곳이다. 맘껏 편집하면 될듯.  
  
-#### (4) MANIFEST.in ####  
+### (4) MANIFEST.in ###  
  
 패키지 폴더 밖에 있는 다른 파일을 포함시키고 싶을때 쓴다.
 
