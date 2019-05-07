@@ -110,9 +110,9 @@ setup(
  
 파이썬 공식 문서에 보면 setup.cfg의 역할에 대해 서술된 곳이 있다
 
-> installers can override some of what you put in setup.py by editing setup.cfg
-> you can provide non-standard defaults for options that are not easily set in setup.py
-> installers can override anything in setup.cfg using the command-line options to setup.py
+> - installers can override some of what you put in setup.py by editing setup.cfg
+> - you can provide non-standard defaults for options that are not easily set in setup.py
+> - installers can override anything in setup.cfg using the command-line options to setup.py
 
 대략적인 내용은, setup.py에 뭔가 정형화되게 딱 설정해놓기 어려운 부분을 setup.cfg를 통해 사용자가 유도리 있게 쓸 수 있도록 도와주는 역할을 하는 파일이다. 음... 어떻게 잘 활용할 수 있을지는 차차 시간을 두고 알아보기로 한다... 일단은 참고한 기술블로그에서 나온 내용만 써 놓겠다. 패키지를 설명해주는 파일이 README.md 파일임을 명시해놓는 내용이다.
 
