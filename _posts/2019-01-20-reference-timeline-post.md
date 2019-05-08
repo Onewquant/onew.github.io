@@ -69,6 +69,8 @@ categories:
 (42) 우발과 패턴 (Ubiquity, 마크 뷰캐넌)  
 (43) Why Stock Market Crash (Didier Sornette)  
 (44) 버스트 (Bursts, A.L. 바라바시)  
+(45) 세네카의 화 다스리기 (루키우스 안나이우스 세네카)
+(46) 스타트업 바이블 (빌 올렛)
 ..ing  
   
   
