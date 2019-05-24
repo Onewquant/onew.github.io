@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Windows 10 환경에서 pyinstaller를 이용한 파이썬 EXE파일 배포 (Distribution of .exe file with pyinstaller library in windows 10)"
+title: "Windows 10 환경에서 pyinstaller를 이용한 파이썬 .exe파일 배포 (Distribution of .exe file with pyinstaller library in windows 10)"
 author_profile: false
 tag: 
 - python
@@ -58,6 +58,8 @@ pyinstaller -F pyinstaller_test.py
  
 빌드가 완료되면 아래 그림과 같이 dist라는 폴더가 생성되고, 그 안에 빌드 완료된 파일이 있게 된다.  
  
+  
+  
 ![image](https://user-images.githubusercontent.com/34860302/58312962-73145180-7e47-11e9-8f46-6e0d0df5af6a.png)  
  
 ##### (Figure 4) dist 폴더가 생성되었다 #####   
