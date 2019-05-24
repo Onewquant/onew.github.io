@@ -54,13 +54,23 @@ pyinstaller -F pyinstaller_test.py
  
 ![image](https://user-images.githubusercontent.com/34860302/58312770-f2555580-7e46-11e9-96b3-027940cdd296.png)  
  
+##### (Figure 3) 빌드를 위한 명령어 입력 시킴 #####   
+ 
 빌드가 완료되면 아래 그림과 같이 dist라는 폴더가 생성되고, 그 안에 빌드 완료된 파일이 있게 된다.  
  
 ![image](https://user-images.githubusercontent.com/34860302/58312962-73145180-7e47-11e9-8f46-6e0d0df5af6a.png)  
  
+##### (Figure 4) dist 폴더가 생성되었다 #####   
+ 
 ![image](https://user-images.githubusercontent.com/34860302/58313011-8cb59900-7e47-11e9-99a0-80377bf12af3.png)  
  
-실행하면 잘 된다.  
+##### (Figure 5) dist 폴더 안에 pyinstaller_test.exe 파일이 생성되었다 #####   
+ 
+이 파일을 더블클릭하면 아주 잘 실행된다.  
+ 
+이 파이썬 파일을 돌리기 위한 라이브러리도 다 포함되어 있는 파일이며, 컴퓨터에 파이썬이 설치되어 있지 않아도 돌아간다 !  
+ 
+일반 사용자를 위한 소프트웨어 배포에 아주 좋다.  
  
 ## pyinstaller로 빌드시 유의점 ##  
  
@@ -96,5 +106,5 @@ pyinstaller -h
 (OS) Windows 10 Pro  
 (Programming Language) Python 3.6.8   
 (IDLE) Pycharm   
-(Figure 1,2 및 기타 스크린샷) 자체 제작   
+(Figure 1,2,3,4,5) 자체 제작   
   
