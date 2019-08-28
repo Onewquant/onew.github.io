@@ -51,7 +51,7 @@ categories:
 (29) 주식시장에서 살아남는 심리투자 법칙 (Trading For A Living, Alexander Elder 알렉산더 엘더)  
 (30) 나의 트레이딩 룸으로 오라(Come Into My Trading Room, Alexander Elder 알렉산더 엘더)  
 (31) 자신만의 방식으로 투자하라 (Trading Your Way To Financial Freedom, Van K. Tharp 반 K. 타프)  
-(32) 주식투자 절대지식 (브렌트 펜폴드)  
+(32) 주식투자 절대지식 (Universal Principles of Successful Trading, Penfold Brent 브렌트 펜폴드)  
 (33) 알고리즘 트레이딩 (조대표)  
 (34) 슈퍼 트레이더 (Super Trader, Van K. Tharp 반 K.타프)  
 (35) 진입과 청산전략 (Entries & Exits Visits To Sixteen Trading Room, Alexander Elder 알렉산더 엘더)  
