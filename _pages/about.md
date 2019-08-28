@@ -50,7 +50,7 @@ Curve Labs는 데이터를 기반한 분석으로 그것들을 이해하려는 �
 - 2019.07 : Develoment of 'Mosell BOK Distributor (A local program for scraping whole keyword data and alarming searcing keywords in low competition, BOK means Blue Ocean Keyword)'  
 - 2019.08 : Launching open-source python package 'Hexpot' (An infrastructure library for 'Hexpo' - researching and executing tools for quantitative trading with realtime streaming data)
 - [Link] : <https://github.com/Onewquant/Hexpot>  
-- 2019.08 : Developing python package 'Hexpo' (means Hyper Exponential)
+- 2019.08 : Developing python package 'Hexpo' (meaning Hyper Exponential)
   
 ---
   
