@@ -46,7 +46,7 @@ Curve Labs는 데이터를 기반한 분석으로 그것들을 이해하려는 �
    
 - 2019.05 : Launching open-source python package 'wecolib' (researching and executing tools for quantitative trading)  
 - [Link] : <https://github.com/Onewquant/wecolib>  
-- 2019.07 : Develoment of 'Mosell' (A local program for helping individual e-commerce bussiness to keep ledger)  
+- 2019.07 : Develoment of 'Mosell' (A local program for helping individual e-commerce business to keep ledger)  
 - 2019.07 : Develoment of 'Mosell BOK Distributor (A local program for scraping whole keyword data and alarming searching keywords in low competition, BOK means Blue Ocean Keyword)'  
 - 2019.08 : Launching open-source python package 'Hexpot' (An infrastructure library for 'Hexpo' - researching and executing tools for quantitative trading with realtime streaming data)
 - [Link] : <https://github.com/Onewquant/Hexpot>  
