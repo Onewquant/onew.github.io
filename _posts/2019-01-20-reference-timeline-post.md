@@ -71,7 +71,7 @@ categories:
 (44) 버스트 (Bursts, A.L. Barabasi 바라바시)  
 (45) 세네카의 화 다스리기 (루키우스 안나이우스 세네카)  
 (46) 스타트업 바이블 (Disciplined Entrepreneurship ,Bill Aulet 빌 올렛)  
-(ing) 신경망 첫걸음: 수포자도 이해하는 신경망 동작 원리와 딥러닝 기초 (Make Tour Own Neural Network, Tariq Rashid 타리크 라시드)  
+(ing) 신경망 첫걸음: 수포자도 이해하는 신경망 동작 원리와 딥러닝 기초 (Make Your Own Neural Network, Tariq Rashid 타리크 라시드)  
 (ing) Coursera Lecture - Machine Learning (Andrew Ng)  
 ..ing    
   
