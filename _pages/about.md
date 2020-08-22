@@ -7,28 +7,14 @@ author_profile: true
   
 ---  
   
-### Be CURVE !  
-  
-- Creative (창의적인)  
-- Understandable (이해하기 쉬운)  
-- Right (올바른)  
-- Valuable (가치 있는)  
-- Evidence-Based (증거 기반)  
-  
----  
-  
 ### Philosophy
 
-'Curve Labs' are the tries for understanding the truth with data-driven analysis.
-We will explore the data world with creative thinking and right value.
-Also we will share the shape of truth in understandable language.
-Through these works, 'Curve Labs' hope to grow step by step and make world better place.
+The purpose of 'Onew Lab' is  
+to understand the truth with data-driven analysis,  
+to explore the data world with creative thinking and right value,  
+to share the results in understandable language,  
  
-Curve Labs는 데이터를 기반한 분석으로 그것들을 이해하려는 시도입니다.    
-우리는 새로운 생각과 올바른 가치관을 가지고 진리를 끝없이 탐구할 것입니다.  
-또한 그 진리의 본 모습을 알기 쉬운 언어로 풀어 사람들과 나눌 것입니다.  
-이 과정을 통해 Curve Labs는 한 걸음씩 성장해 나가며,  
-세상을 더 가치 있게 변화시키리라 믿습니다.
+and ultimately to make world better place with these works.  
  
 ---  
  
@@ -50,14 +36,15 @@ Curve Labs는 데이터를 기반한 분석으로 그것들을 이해하려는 �
 - 2019.07 : Develoment of 'Mosell BOK Distributor (A local program for scraping whole keyword data and alarming searching keywords in low competition, BOK means Blue Ocean Keyword)'  
 - 2019.08 : Launching open-source python package 'Hexpot' (An infrastructure library for 'Hexpo' - researching and executing tools for quantitative trading with realtime streaming data)
 - [Link] : <https://github.com/Onewquant/Hexpot>  
-- 2019.08 : Developing python package 'Hexpo' (meaning Hyper Exponential)
+- 2019.08 : Developing python package 'Hexpo' (meaning Hyper Exponential)  
+  
   
 ---
   
 ### Technical Skill Sets  
  
-- Programming Language : Python, SQL Query
-- Database : MongoDB, Microsoft SQL-Server
+- Programming Language : Python, Go, SQL Query  
+- Database : MongoDB, Microsoft SQL-Server  
  
 ---
  
