@@ -8,13 +8,12 @@ author_profile: true
 ---  
   
 ### Philosophy
-
-The purpose of 'Onew Lab' is  
+   
 to understand the truth with data-driven analysis,  
 to explore the data world with creative thinking and right value,  
 to share the results in understandable language,  
  
-and ultimately to make world better place with these works.  
+and ultimately to make world better place through these works.  
  
 ---  
  
