@@ -111,22 +111,22 @@ author:
   location         : "Seoul, Korea"
   email            : 
   links:
-    - label: "Email"
+    - label: " Email"
       icon: "fas fa-fw fa-envelope"
       url: mailto:seunghwan0216@gmail.com
     - label: " Linkedin"
-      icon: "fab fa-linkedin-in"
+      icon: "fab fa-fw linkedin-in"
       url: "https://www.linkedin.com/in/onew"
-    - label: "Twitter"
+    - label: " Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
+    - label: " Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://www.facebook.com/seunghwan.baek.902"
     - label: " GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Onewquant"
-    - label: "Instagram"
+    - label: " Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
