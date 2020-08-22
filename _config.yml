@@ -113,8 +113,8 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Linkedin"
+      url: mailto:seunghwan0216@gmail.com
+    - label: " Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/onew"
     - label: "Twitter"
@@ -122,8 +122,8 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/seunghwan.baek.902"
-    - label: "GitHub"
+      # url: "https://www.facebook.com/seunghwan.baek.902"
+    - label: " GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Onewquant"
     - label: "Instagram"
