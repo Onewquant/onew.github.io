@@ -13,7 +13,7 @@ author_profile: true
 - To explore the data world with creative thinking and right value.  
 - To share the results in understandable language.  
  
-Ultimately to make world better place through these works.  
+- Ultimately to make world better place through these works.  
 
 ---  
  
