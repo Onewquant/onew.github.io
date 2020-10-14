@@ -91,10 +91,11 @@ categories:
 (60) 마을의 진화 (간다 세이지)  
 (61) 내 이름은 공동체 (장성익)  
 (62) 소프트웨어 장인 (The Software Craftsman, Sandro Mancuso 산드로 만쿠소)  
-(63) 졸업 그 이후 (Following Jesus in the Real World, Richard Lamb 리처드램)  
-(64) 주식시장의 승부사들 (한봉호, 김형준, 강창권, 이주원, 김영옥, 이찬용, 이상기)  
-(65) 천재들의 주사위 (David Salsburg 데이빗 살스버그)  
-(66) 아가페 쉬운성경  
+(63) 도시는 무엇으로 사는가 (유현준)  
+(64) 졸업 그 이후 (Following Jesus in the Real World, Richard Lamb 리처드램)  
+(65) 주식시장의 승부사들 (한봉호, 김형준, 강창권, 이주원, 김영옥, 이찬용, 이상기)  
+(66) 천재들의 주사위 (David Salsburg 데이빗 살스버그)  
+(67) 아가페 쉬운성경  
   
   
 Photo by Alfons Morales on Unsplash  
