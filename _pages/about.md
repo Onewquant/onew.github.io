@@ -19,7 +19,7 @@ Ultimately to make world better place through these works.
  
 ### Reference Timeline  
  
-[Link] : <https://onewquant.github.io/reference%20timeline/reference-timeline-post/>  
+<https://onewquant.github.io/reference%20timeline/reference-timeline-post/>  
  
 ---  
  
