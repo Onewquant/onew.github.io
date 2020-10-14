@@ -9,9 +9,9 @@ author_profile: true
   
 ### Philosophy
    
-To understand the truth with data-driven analysis.  
-To explore the data world with creative thinking and right value.  
-To share the results in understandable language.  
+- To understand the truth with data-driven analysis.  
+- To explore the data world with creative thinking and right value.  
+- To share the results in understandable language.  
  
 Ultimately to make world better place through these works.  
 
@@ -19,7 +19,7 @@ Ultimately to make world better place through these works.
  
 ### Reference Timeline  
  
-<https://onewquant.github.io/reference%20timeline/reference-timeline-post/>  
+- <https://onewquant.github.io/reference%20timeline/reference-timeline-post/>  
  
 ---  
  
