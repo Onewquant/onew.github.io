@@ -63,7 +63,7 @@ categories:
 (41) 내일의 경제 (Forcast, Mark Buchanan 마크 뷰캐넌)  
   
   
-### 2019 (Total : NaN ) ###  
+### 2019 (Total : 9 ) ###  
   
   
 (42) 우발과 패턴 (Ubiquity, Mark Buchanan 마크 뷰캐넌)  
@@ -71,10 +71,30 @@ categories:
 (44) 버스트 (Bursts, A.L. Barabasi 바라바시)  
 (45) 세네카의 화 다스리기 (루키우스 안나이우스 세네카)  
 (46) 스타트업 바이블 (Disciplined Entrepreneurship ,Bill Aulet 빌 올렛)  
-(ing) 신경망 첫걸음: 수포자도 이해하는 신경망 동작 원리와 딥러닝 기초 (Make Your Own Neural Network, Tariq Rashid 타리크 라시드)  
-(ing) Coursera Lecture - Machine Learning (Andrew Ng)  
-..ing    
+(47) 신경망 첫걸음: 수포자도 이해하는 신경망 동작 원리와 딥러닝 기초 (Make Your Own Neural Network, Tariq Rashid 타리크 라시드)  
+(48) Coursera Lecture - Machine Learning (Andrew Ng)  
+(49) Trading and Exchange Market Microstructure for Practitioners (Larry Haris)  
+(50) 핸즈온 머신러닝 (Hands-On Machine Learning, Aurelien Geron 오렐리앙 제롱)  
   
+  
+### 2020 (Total : NaN ) ###  
+  
+(51) 다윗 현실에 뿌리박은 영성 (유진 피터슨)  
+(52) 파이썬 데이터 시각화 마스터 (키르시 라만)  
+(53) 실전 금융 머신러닝 완벽 분석 (Advances in Financial Machine Learning, Marcos Lopez De Prado 마르코스 로페즈 데 프라도)  
+(54) 이 책을 먹으라 (유진 피터슨)  
+(55) 칼만 필터는 어렵지 않아 (김성필)  
+(56) 핸즈온 머신러닝 딥러닝 알고리즘 트레이딩 (Hands on Machine Learning for Algorithmic Trading, Stefan Jansen 스테판 젠슨)  
+(57) 의학.보건학 통계분석 (안재억)  
+(58) 너희 보물이 있는 곳에 (유진 피터슨)  
+(59) 우린 다르게 살기로 했다 (조현)  
+(60) 마을의 진화 (간다 세이지)  
+(61) 내 이름은 공동체 (장성익)  
+(62) 소프트웨어 장인 (The Software Craftsman, Sandro Mancuso 산드로 만쿠소)  
+(63) 졸업 그 이후 (Following Jesus in the Real World, Richard Lamb 리처드램)  
+(64) 주식시장의 승부사들 (한봉호, 김형준, 강창권, 이주원, 김영옥, 이찬용, 이상기)  
+(65) 천재들의 주사위 (David Salsburg 데이빗 살스버그)  
+(66) 아가페 쉬운성경  
   
   
 Photo by Alfons Morales on Unsplash  
